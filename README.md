@@ -19,7 +19,7 @@ In my DevOps role (2021–2024) I handled Okta and Active Directory user lifecyc
 
 ## 🛠️ Tools
 
-Microsoft Entra ID · Okta · Active Directory · AWS · Azure · Terraform · Pulumi · PowerShell
+Microsoft Entra ID · Okta · Active Directory · AWS · Azure · Terraform · Pulumi · Azure CLI · Linux
 
 ## 📫 Connect
 
